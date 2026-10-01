@@ -16,7 +16,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Buoyancy",
+			"Name": "Composure",
+			"Enabled": true
+		},
+		{
+			"Name": "CineCameraSceneCapture",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
 		{
@@ -24,15 +32,11 @@
 			"Enabled": true
 		},
 		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
 			"Name": "WaterAdvanced",
-			"Enabled": true
-		},
-		{
-			"Name": "Composure",
-			"Enabled": true
-		},
-		{
-			"Name": "CineCameraSceneCapture",
 			"Enabled": true
 		}
 	]
